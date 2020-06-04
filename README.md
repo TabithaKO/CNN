@@ -1,6 +1,9 @@
 ## Notebooks
 You can download and recreate these notebooks in your preferred programming environment. 
 
+## NB
+The cats_dogs-DATA notebook has information on how to deal with pickled datasets. A concept I struggled with for a while.
+
 ## More Information
 I learnt how to do this from: 
 - Deep Learning with Python, Francois Chollet (https://github.com/TabithaKO/deep-learning-with-python-notebooks)
